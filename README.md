@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'M DIBAKAR PARIDA</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">Passionate Full Stack Developer crafting seamless frontend experiences and powerful backend solutions. Expert in React.js and Node.js</h3>
 
 ![image](https://github.com/D-4-DIBAKAR/D-4-DIBAKAR/assets/71878062/fa3cd311-7c4b-43b5-9923-75a3b7d3b859)
 
