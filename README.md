@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-4-dibakar&show_icons=true&locale=en" alt="d-4-dibakar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-4-dibakar&" alt="d-4-dibakar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-4-dibakar&" alt="d-4-dibakar"  width=90% /></p>
