@@ -1,7 +1,7 @@
 - name: Generate Contribution Graph
   uses: Platane/snk@v3
   with:
-    github_user_name: ${{ D-4-DIBAKAR }}
+    github_user_name: '${{ "D-4-DIBAKAR" }}'
     outputs: |
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
