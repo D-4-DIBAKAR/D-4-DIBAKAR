@@ -37,3 +37,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-4-dibakar&show_icons=true&locale=en" alt="d-4-dibakar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-4-dibakar&" alt="d-4-dibakar" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-4-DIBAKAR/D-4-DIBAKAR/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-4-DIBAKAR/D-4-DIBAKAR/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/D-4-DIBAKAR/D-4-DIBAKAR/output/github-contribution-grid-snake.svg">
+</picture>
+
+  *Generated with [D-4-DIBAKAR](https://github.com/D-4-DIBAKAR)*
