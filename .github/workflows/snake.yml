@@ -9,7 +9,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    defaults:
+      run:
+        working-directory: ./  
+
+    strategy:
+      matrix:
+        node-version: [16.x]  
+
     steps:
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+
       - name: Checkout Repository
         uses: actions/checkout@v2
 
