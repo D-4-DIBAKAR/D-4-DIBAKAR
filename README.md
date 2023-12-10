@@ -60,7 +60,7 @@
 </p>
 
 
-| Top Language                                                                                                                         | GitHub Stats                                                                                               | Streak Stats                                                                         |
+| Top Language                                                                                                                         | GitHub Stats                                                 | Streak Stats                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=d-4-dibakar&show_icons=true&locale=en&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-4-dibakar&show_icons=true&locale=en) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=d-4-dibakar&) |
 
