@@ -7,7 +7,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=d-4-dibakar)
 
-- 🔭 I’m currently working on [50 Days 50 Projects](https://github.com/D-4-DIBAKAR/50DaysOfCode)
+- 🔭 I’m currently working on [GFG160 by GeeksForGeeks](https://github.com/D-4-DIBAKAR/GeeksForGeeks)
 - 🌱 I’m currently learning **MERN Stack Technology**
 - 👯 I’m looking to collaborate on **Full Stack Development**
 - 🤝 I’m looking for help with **Full Stack Projects**
