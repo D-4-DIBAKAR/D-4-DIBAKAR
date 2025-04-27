@@ -50,6 +50,10 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/D-4-DIBAKAR/D-4-DIBAKAR/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+<div align="center">
+ 
+   ![Visitor Count](https://profile-counter.glitch.me/{D-4-DIBAKAR}/count.svg)
+</div>
 
 ##### Generated with [D-4-DIBAKAR](https://github.com/D-4-DIBAKAR)
 
