@@ -142,6 +142,20 @@ Node.js, MongoDB, Firebase
 
 Looking for **Full-Time MERN Stack Developer** roles
 
+
+<hr/>
+<p align="center">
+  <a href="https://github.com/D-4-DIBAKAR/D-4-DIBAKAR/blob/Master/Dibakar_Parida_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-GitHub-lightgrey?style=for-the-badge&logo=readthedocs&logoColor=black" alt="View Resume"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/D-4-DIBAKAR/D-4-DIBAKAR/raw/Master/Dibakar_Parida_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+  </a>
+</p>
+
+
+
 </td>
 </tr>
 </table>
